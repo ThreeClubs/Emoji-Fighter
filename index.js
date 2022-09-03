@@ -26,3 +26,10 @@ fightButton.addEventListener("click", function() {
 
 
 
+
+
+
+
+
+
+
